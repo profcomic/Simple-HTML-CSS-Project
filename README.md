@@ -1,6 +1,7 @@
 # Simple-HTML-CSS-Project
 
-![FULL DOCUMENTATION](https://docs.google.com/document/d/1PtiqqoGQcxQTFuJO5RuHUeQ0eebsclGBBEiOSI3YPPs/edit?usp=sharing)
+# FULL DOCUMENTATION 
+(https://docs.google.com/document/d/1PtiqqoGQcxQTFuJO5RuHUeQ0eebsclGBBEiOSI3YPPs/edit?usp=sharing)
 
 # 🎨 The Magic of CSS: Creating a Toy Organizing Game
 
@@ -213,7 +214,7 @@ We'll use a CSS layout technique called **Flexbox**, which works like a smart sh
 
 **File:** `style-sheet.css`
 
-[Open the HTML File](./style-sheet.css)
+[Open the STYLE SHEET](./style-sheet.css)
 
 ![STYLE SHEET](images/style-sheet.png)
 
